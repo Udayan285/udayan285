@@ -4,6 +4,8 @@ import AVTR1 from "../../src/assets/E3F9E6EF-5FE9-4EDD-93C0-E011D7A485BB.webp";
 import AVTR2 from "../../src/assets/avatar2.jpg";
 import AVTR3 from "../../src/assets/avatar3.jpg";
 import AVTR4 from "../../src/assets/avatar4.jpg";
+import AVTR5 from "../../src/assets/sujon.jpg";
+import AVTR6 from "../../src/assets/kyle.jpg";
 
 // import Swiper core and required modules
 import { Pagination } from "swiper";
@@ -37,6 +39,27 @@ function Testimonials() {
           Great work! Good communication! Thanks.
           </small>
         </SwiperSlide>
+
+        <SwiperSlide className="testimonial">
+          <div className="client__avatar">
+            <img src={AVTR5} alt="avtar five" />
+          </div>
+          <h5 className="client__name">Sujon Chakraborti</h5>
+          <small className="client__review">
+          Working with Udayan has been an absolute pleasure! From start to finish, he demonstrated professionalism, technical expertise, and a clear understanding of our requirements. The website he developed for us exceeded our expectations in both design and functionality. Udayan was incredibly responsive to our feedback and made the whole process smooth and hassle-free. We highly recommend him for any web development projects and look forward to collaborating again in the future!
+          </small>
+        </SwiperSlide>
+
+        <SwiperSlide className="testimonial">
+          <div className="client__avatar">
+            <img src={AVTR6} alt="avtar six" />
+          </div>
+          <h5 className="client__name">Kyle</h5>
+          <small className="client__review">
+          Udayan delivered an outstanding website that perfectly aligns with our brand vision. His attention to detail and creativity really stood out throughout the project. He kept us updated at every stage, and any revisions we requested were handled swiftly and professionally. The final result is a modern, user-friendly site that has already received positive feedback from our customers. We’re thrilled with the outcome and would gladly recommend Udayan to anyone looking for a skilled web developer.
+          </small>
+        </SwiperSlide>
+
         <SwiperSlide className="testimonial">
           <div className="client__avatar">
             <img src={AVTR2} alt="avtar two" />

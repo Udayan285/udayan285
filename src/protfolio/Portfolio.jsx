@@ -6,6 +6,9 @@ import IMG3 from '../../src/assets/gym.png'
 import IMG4 from '../../src/assets/textutils.png'
 import IMG5 from '../../src/assets/redstore.png'
 import IMG6 from '../../src/assets/barber.png'
+import IMG7 from '../../src/assets/micl.jpg'
+import IMG8 from '../../src/assets/dsl.jpg'
+import IMG9 from '../../src/assets/n18.jpg'
 
 
 
@@ -16,6 +19,39 @@ function Portfolio() {
       <h2>Portfolio</h2>
 
       <div className="container portfolio__container">
+        <article className="portfolio__item">
+          <div className="portfolio__item-img">
+            <img src={IMG7} alt="portfolio7" />
+          </div>
+          <h3>Meb Industrial Complex Limited</h3>
+          <div className="portfolio__item-cta">
+          <a href="https://github.com/Udayan285/micl-full-stack" className="btn" target="_blank">Github</a>
+          <a href="https://miclbd.com/" className="btn btn-primary" target="_blank">Live demo</a>
+          </div>
+        </article>
+
+        <article className="portfolio__item">
+          <div className="portfolio__item-img">
+            <img src={IMG8} alt="portfolio8" />
+          </div>
+          <h3>E-commerce DigitalSmokeLab</h3>
+          <div className="portfolio__item-cta">
+          <a href="https://digitalsmokelab.com/" className="btn" target="_blank">Github</a>
+          <a href="https://digitalsmokelab.com/" className="btn btn-primary" target="_blank">Live demo</a>
+          </div>
+        </article>
+
+        <article className="portfolio__item">
+          <div className="portfolio__item-img">
+            <img src={IMG9} alt="portfolio9" />
+          </div>
+          <h3>N18 Blog</h3>
+          <div className="portfolio__item-cta">
+          <a href="https://n18.vn/" className="btn" target="_blank">Github</a>
+          <a href="https://n18.vn/" className="btn btn-primary" target="_blank">Live demo</a>
+          </div>
+        </article>
+        {/* new portfolio added top three */}
         <article className="portfolio__item">
           <div className="portfolio__item-img">
             <img src={IMG1} alt="portfolio1" />

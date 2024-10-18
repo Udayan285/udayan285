@@ -7,7 +7,7 @@ import {FaTwitter} from 'react-icons/fa'
 function Footer() {
   return (
     <footer id='footer'>
-      <a href="#home" className='footer__logo'>MohoIT</a>
+      <a href="#home" className='footer__logo'>UTech</a>
 
       <ul className='permalinks'>
         <li><a href="#home">Home</a></li>
@@ -26,7 +26,7 @@ function Footer() {
       </div>
 
       <div className="footer__copyright">
-        <small>&copy; MohoIT all right reserved</small>
+        <small>&copy; UTech all right reserved</small>
       </div>
     </footer>
   )

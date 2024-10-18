@@ -40,7 +40,7 @@ const sendEmail = (e) => {
           <article className="contact__option" target="_blank">
             <RiMessengerLine className='contact__option-icon'/>
             <h4>Messenger</h4>
-            <h5>Moho IT</h5>
+            <h5>UTech</h5>
             <a href="https://m.me/udayan285">Send a message</a>
           </article>
           <article className="contact__option">
