@@ -1,23 +1,27 @@
 {
   "files": {
     "main.css": "/udayan285/static/css/main.f07a9f9e.css",
-    "main.js": "/udayan285/static/js/main.0e7906e0.js",
+    "main.js": "/udayan285/static/js/main.60aee1ca.js",
     "static/media/odoyn.png": "/udayan285/static/media/odoyn.cf7d7097459f94b45d61.png",
     "static/media/barber.png": "/udayan285/static/media/barber.c1dfc113c78340f0344c.png",
-    "static/media/about.jpg": "/udayan285/static/media/about.fe34c1b78071b3f63c97.jpg",
     "static/media/gym.png": "/udayan285/static/media/gym.a8eb73777485120fc0f2.png",
     "static/media/redstore.png": "/udayan285/static/media/redstore.6364685f473829ae0a3c.png",
+    "static/media/sujon.jpg": "/udayan285/static/media/sujon.3b3b490a9fb062b86e91.jpg",
     "static/media/cv.pdf": "/udayan285/static/media/cv.c5bf72f6390d94c86f66.pdf",
+    "static/media/micl.jpg": "/udayan285/static/media/micl.96afe7c171e21bc7cbf7.jpg",
+    "static/media/utechProfile.jpg": "/udayan285/static/media/utechProfile.e9abbaec9ed6bf1fb410.jpg",
     "static/media/portfolio2.png": "/udayan285/static/media/portfolio2.f5a1b50b379b92f99b56.png",
+    "static/media/n18.jpg": "/udayan285/static/media/n18.3315dabc8629eaa9f992.jpg",
+    "static/media/dsl.jpg": "/udayan285/static/media/dsl.46056f040fe2af50cbaf.jpg",
     "static/media/kinh.jpg": "/udayan285/static/media/kinh.734f15be4617e8917b59.jpg",
     "static/media/textutils.png": "/udayan285/static/media/textutils.7dc4c1009ac17230c72f.png",
     "static/media/E3F9E6EF-5FE9-4EDD-93C0-E011D7A485BB.webp": "/udayan285/static/media/E3F9E6EF-5FE9-4EDD-93C0-E011D7A485BB.f42b8ea1c45b6dca9277.webp",
     "index.html": "/udayan285/index.html",
     "main.f07a9f9e.css.map": "/udayan285/static/css/main.f07a9f9e.css.map",
-    "main.0e7906e0.js.map": "/udayan285/static/js/main.0e7906e0.js.map"
+    "main.60aee1ca.js.map": "/udayan285/static/js/main.60aee1ca.js.map"
   },
   "entrypoints": [
     "static/css/main.f07a9f9e.css",
-    "static/js/main.0e7906e0.js"
+    "static/js/main.60aee1ca.js"
   ]
 }
