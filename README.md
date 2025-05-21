@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-This is my personal portfolio site, where you can find my all finsihing projects and explore me and my web development journey. You're most welcome.
+Welcome to my personal portfolio website, where you can explore all my completed projects and discover my journey as a web developer. I'm glad to have you here!
 
 <!--
 **Udayan285/udayan285** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
